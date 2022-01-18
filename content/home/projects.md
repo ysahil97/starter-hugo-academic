@@ -29,8 +29,10 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Systems
+    tag: Systems
+  - name: Information Retrieval
+    tag: Information Retrieval
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -44,5 +46,5 @@ design:
   view: 2
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---
