@@ -39,7 +39,7 @@ experience:
     date_start: '2020-09-17'
     date_end: '2021-02-28'
     description: |2-
-        Under guidance of Prof. Pawan Goyal, contributed to projects related to Explainablity in Recommender Systems(Information Retrieval) and creation of Indic Datasets(NLP).
+        Under guidance of Prof. Pawan Goyal, contributed to projects related to Explainablity in Recommender Systems (Information Retrieval) and creation of Indic Datasets (NLP).
         
   - title: Software Engineer
     company: Honeywell

@@ -34,7 +34,7 @@ item:
 # - certificate_url: https://www.edx.org
 - date_end: ""
   date_start: "2019-04-01"
-  description: Presented the work and findings of 2018 GSoC project as a poster in EuroLLVM 2019.
+  description: Presented the work and findings of 2018 GSoC project as a poster in EuroLLVM 2019 at Brussels, Belgium.
   organization: LLVM Foundation
   organization_url: https://llvm.org/devmtg/2019-04/
   title: EuroLLVM 2019
