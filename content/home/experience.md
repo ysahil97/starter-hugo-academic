@@ -22,15 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Backend Software Engineer
+    company: Snazzy (YCombinator W21)
+    company_url: ''
+    # company_logo: org-gc
+    location: Bangalore
+    date_start: '2022-07-31'
+    date_end: '2021-07-01'
+    description: |2-
+        Designed and implemented a microservice-based backend for user-website, internal admin portal and doctor/patient android apps of Snazzy.
   - title: Research Assistant
     company: IIT-Hyderabad
     company_url: ''
     # company_logo: org-gc
     location: Hyderabad
-    date_start: '2020-04-01'
-    date_end: ''
+    date_start: '2021-03-01'
+    date_end: '2021-06-30'
     description: |2-
-        Along with Prof Maunendra Desarkar and Prof. Srijith P.K., working on projects related to machine learning using alternate data sources using knowledge distillation techniques.
+        Along with Prof Maunendra Desarkar and Prof. Srijith P.K., worked on projects related to machine learning using alternate data sources using knowledge distillation techniques.
   - title: Research Assistant
     company: IIT-Kharagpur
     company_url: ''
