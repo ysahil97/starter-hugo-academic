@@ -26,6 +26,9 @@ superuser: true
 # Education to show in About widget
 education:
   courses:
+  - course: M.S in Computer Science
+    institution: University of Massachusetts, Amherst
+#     year: 2019
   - course: B.Tech in Computer Science Engineering
     institution: Indian Institute of Technology, Hyderabad
     year: 2019

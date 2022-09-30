@@ -24,14 +24,14 @@ email: sahil.yerawar@gmail.com
 phone: (+1) 413-313-7586
 address:
   # street: 450 Serra Mall
-  city: Pune
+  city: Amherst
   # region: CA
-  postcode: '411007'
-  country: India
+  postcode: '01002'
+  country: USA
   country_code: US
 coordinates:
-  latitude: '18.5204'
-  longitude: '73.8567'
+  latitude: '42.3732 N'
+  longitude: '72.5199 W'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'

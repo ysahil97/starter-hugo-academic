@@ -33,6 +33,8 @@ content:
     tag: Systems
   - name: Information Retrieval
     tag: Information Retrieval
+  - name: Machine Learning
+    tag: Machine Learning	
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

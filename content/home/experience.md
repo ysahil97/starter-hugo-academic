@@ -26,16 +26,16 @@ experience:
     company: Snazzy (YCombinator W21)
     company_url: ''
     # company_logo: org-gc
-    location: Bangalore
-    date_start: '2022-07-31'
-    date_end: '2021-07-01'
+    location: Bangalore, India
+    date_start: '2021-07-01'
+    date_end: '2022-07-31'
     description: |2-
         Designed and implemented a microservice-based backend for user-website, internal admin portal and doctor/patient android apps of Snazzy.
   - title: Research Assistant
     company: IIT-Hyderabad
     company_url: ''
     # company_logo: org-gc
-    location: Hyderabad
+    location: Hyderabad, India
     date_start: '2021-03-01'
     date_end: '2021-06-30'
     description: |2-
@@ -44,7 +44,7 @@ experience:
     company: IIT-Kharagpur
     company_url: ''
     # company_logo: org-gc
-    location: Kharagpur
+    location: Kharagpur, India
     date_start: '2020-09-17'
     date_end: '2021-02-28'
     description: |2-
@@ -54,7 +54,7 @@ experience:
     company: Honeywell
     company_url: ''
     # company_logo: org-x
-    location: Hyderabad
+    location: Hyderabad, India
     date_start: '2019-07-15'
     date_end: '2020-07-31'
     description: Member of Displays and Graphics Team in Aerospace Domain. Responsible for developing display applications for Aircraft Cockpit Systems
